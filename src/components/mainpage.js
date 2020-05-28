@@ -19,6 +19,7 @@ class Mainpage extends Component {
             {" "}
             <i class="fa fa-github" aria-hidden="true"></i> &nbsp; GIT BATTLE
           </h2>
+          <br />
         </div>
         <InputLabel id="input-with-icon-grid">First User </InputLabel>
         <Input
@@ -47,7 +48,7 @@ class Mainpage extends Component {
         <Button variant="contained" size="large" color="primary">
           Battle
         </Button>
-        <br /> <br /> <br /> <br />
+        <br /> <br /> <br /> <br /> <br /> <br /> <br />
         <Footer />
       </div>
     );
